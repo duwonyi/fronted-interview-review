@@ -5,9 +5,13 @@ It's for me
 ## Table of Contents
 
 1. [General Quetions](#general-quetions)
+    - [R1: Front-end-Developer-Interview-Questions](#r.1)
+    - [My Own](#m.1)
 1. [Answers](#answers)
 
 ### General Quetions:
+
+<a name='r.1'/>
 
 #### [R.1: Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/README.md#general-questions)
 
@@ -15,9 +19,11 @@ It's for me
 
 What did you learn yesterday/this week?
 
-[See Answer](#ra.1.1)
+[See Answer](#r.1.1)
 
 ---
+
+<a name='m.1'/>
 
 #### My Own
 
@@ -25,7 +31,7 @@ What did you learn yesterday/this week?
 
 What is your name?
 
-[See Answer](#am.1.1)
+[See Answer](#m.1.1)
 
 ---
 
@@ -33,13 +39,13 @@ What is your name?
 
 ### General Quetions
 
-<a name='ra.1.1'/>
+<a name='r.1.1'/>
 
 #### R.1.1
 
 I learnd Webpack and PostCSS
 
-<a name='am.1.1'/>
+<a name='m.1.1'/>
 
 #### M.1.1
 

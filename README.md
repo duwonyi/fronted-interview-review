@@ -15,17 +15,17 @@ It's for me
 
 What did you learn yesterday/this week?
 
-[See Answer](#r.0.1)
+[See Answer](#r.1.1)
 
 ---
 
 #### My Own
 
-##### M.1
+##### M.1.1
 
 What is your name?
 
-[See Answer](#a.1)
+[See Answer](#m.1.1)
 
 ---
 
@@ -35,12 +35,12 @@ What is your name?
 
 <a name='r.1.1'/>
 
-#### R.0.1
+#### R.1.1
 
 I learnd Webpack and PostCSS
 
-<a name='a.1.1'/>
+<a name='m.1.1'/>
 
-#### A.1.1
+#### M.1.1
 
 My name is Doowon Lee.

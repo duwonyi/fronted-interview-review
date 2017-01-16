@@ -15,7 +15,7 @@ It's for me
 
 What did you learn yesterday/this week?
 
-[See Answer](#r.1.1)
+[See Answer](#ra.1.1)
 
 ---
 
@@ -25,7 +25,7 @@ What did you learn yesterday/this week?
 
 What is your name?
 
-[See Answer](#m.1.1)
+[See Answer](#am.1.1)
 
 ---
 
@@ -33,13 +33,13 @@ What is your name?
 
 ### General Quetions
 
-<a name='r.1.1'/>
+<a name='ra.1.1'/>
 
 #### R.1.1
 
 I learnd Webpack and PostCSS
 
-<a name='m.1.1'/>
+<a name='am.1.1'/>
 
 #### M.1.1
 
